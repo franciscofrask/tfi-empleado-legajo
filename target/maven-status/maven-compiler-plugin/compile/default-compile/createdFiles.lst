@@ -1,0 +1,13 @@
+dao\impl\LegajoDaoImpl.class
+config\DatabaseConnection.class
+ar\edu\tuprogramacion\tfi\empleado\legajo\TfiEmpleadoLegajo.class
+main\AppMenu.class
+service\GenericService.class
+main\Main.class
+dao\LegajoDao.class
+dao\GenericDao.class
+entities\Empleado.class
+entities\Legajo.class
+dao\EmpleadoDao.class
+service\EmpleadoService.class
+dao\impl\EmpleadoDaoImpl.class
